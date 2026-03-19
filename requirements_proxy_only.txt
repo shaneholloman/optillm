@@ -7,6 +7,6 @@ requests
 cerebras_cloud_sdk
 numpy
 networkx
-z3-solver
+z3-solver<=4.15.4.0
 sympy
 math_verify
